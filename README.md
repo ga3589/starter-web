@@ -12,7 +12,7 @@ Let's add something new here
 
 ## Deployment
 
-This is a simple web project.
+This is a simple web project. Deployment can be on any platform. And bla bla
 
 ## How To Contribute
 
