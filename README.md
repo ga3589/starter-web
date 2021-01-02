@@ -15,3 +15,5 @@ Let's add something new here
 This is a simple web project.
 
 ## How To Contribute
+
+Contribute to this simple web project.
