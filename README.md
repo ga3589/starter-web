@@ -12,4 +12,6 @@ Let's add something new here
 
 ## Deployment
 
+This is a simple web project.
+
 ## How To Contribute
