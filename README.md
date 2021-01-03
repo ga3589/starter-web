@@ -16,4 +16,4 @@ This is a simple web project. Deployment can be on any platform. And bla bla
 
 ## How To Contribute
 
-Contribute to this simple web project.
+Contribute to this simple web project. Contribution is important.
