@@ -22,3 +22,5 @@ Learn how to contribute.al;fjafa. Climate changes effect the level of dams. Don'
 ### Copyright
 
 copyright section. copyright section added for this branch.
+
+Please, read this file 
