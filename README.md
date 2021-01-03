@@ -17,3 +17,4 @@ This is a simple web project. Deployment can be on any platform. And bla bla
 ## How To Contribute
 
 Contribute to this simple web project. Contribution is important, very important.
+Learn how to contribute.al;fjafa. Climate changes effect the level of dams. Don't waste water.
